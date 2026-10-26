@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Absensi &amp; Penilaian Spenkar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Spenkar",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": " ",
+  "description": "Aplikasi Absensi &amp; Penilaian SMPN 1 Karanganyar"
+}
